@@ -1,2 +1,4 @@
 Welcome/main page : https://wireframe.cc/s4nOvn
+Student dashboard : https://wireframe.cc/dmzCrz
+Viewing a video from selected module in chapter : https://wireframe.cc/1jmVyw
 
