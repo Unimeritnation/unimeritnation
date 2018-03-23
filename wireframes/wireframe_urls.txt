@@ -1,7 +1,25 @@
+
+		BY RAMYA
+
 Welcome/main page : https://wireframe.cc/s4nOvn
 Student dashboard : https://wireframe.cc/dmzCrz
 Viewing a video from selected module in chapter : https://wireframe.cc/1jmVyw
-Student profile page: https://wireframe.cc/vPOGH5
-settings- General settings :https://wireframe.cc/hySlFB
-settings- privacy settings :https://wireframe.cc/qaMBDc
+Lecture explanation / transcript of video : https://wireframe.cc/zDjw8F
+Student lecture discussion : https://wireframe.cc/uDnPk1
+course home of a single subject : https://wireframe.cc/pOSCPp
+
+--------------------------------------------------------------------------------------------------------------------------
+		BY MADHURI
+
+Start page of student login- https://wireframe.cc/ytSlap
+start page of teacher login- https://wireframe.cc/ufaaNS
+
+
+---------------------------------------------------------------------------------------------------------------------------
+		BY SHIVANI
+
+
+Student profile page       : https://wireframe.cc/vPOGH5
+settings- General settings : https://wireframe.cc/hySlFB
+settings- privacy settings : https://wireframe.cc/qaMBDc
 
