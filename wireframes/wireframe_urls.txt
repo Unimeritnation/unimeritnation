@@ -20,15 +20,27 @@ Contact us-                  https://wireframe.cc/MktwSS
 ---------------------------------------------------------------------------------------------------------------------------
 		BY SHIVANI
 
+		22nd march
 
 Student profile page       : https://wireframe.cc/vPOGH5
 settings- General settings : https://wireframe.cc/hySlFB
 settings- privacy settings : https://wireframe.cc/qaMBDc
+
+                23rd march
+
 competitive exam 	   : https://wireframe.cc/XpeenQ
 ask question               : https://wireframe.cc/97Ebhk
 answer a question          : https://wireframe.cc/HEiwsP
 test page                  : https://wireframe.cc/8LaqQv
 (GATE exam test homepage)
 test page for gate(MCQs)   : https://wireframe.cc/BuU3pz
+
+                24th march
+
 video page
 (gate exam videos homepage): https://wireframe.cc/Tlb7SJ
+video lecture pages
+(subject&chapterwise)      : https://wireframe.cc/85zRHQ
+
+study material 
+(gate exam studymaterial)  : https://wireframe.cc/C4CDpU
