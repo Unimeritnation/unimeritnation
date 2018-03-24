@@ -1,3 +1,5 @@
+		BY RAMYA
+
 Welcome/main page : https://wireframe.cc/s4nOvn
 Student dashboard : https://wireframe.cc/dmzCrz
 Viewing a video from selected module in chapter : https://wireframe.cc/1jmVyw
@@ -5,13 +7,43 @@ list of tests/exams for a specific subject : https://wireframe.cc/6TdyoN
 Start of test instructions : https://wireframe.cc/VO18ky
 During test : https://wireframe.cc/uyq5fq
 
-Start page of student login- https://wireframe.cc/ytSlap
-start page of teacher login- https://wireframe.cc/ufaaNS
-Student profile page       : https://wireframe.cc/vPOGH5
-settings- General settings : https://wireframe.cc/hySlFB
-settings- privacy settings : https://wireframe.cc/qaMBDc
 Lecture explanation / transcript of video : https://wireframe.cc/zDjw8F
 Student lecture discussion : https://wireframe.cc/uDnPk1
 course home of a single subject : https://wireframe.cc/pOSCPp
 
+--------------------------------------------------------------------------------------------------------------------------
+		BY MADHURI
 
+Start page of student login- https://wireframe.cc/ytSlap
+start page of teacher login- https://wireframe.cc/ufaaNS
+Career guidance-             https://wireframe.cc/KBJNv3  
+Feedback from students-      https://wireframe.cc/1dRlCs  
+Contact us-                  https://wireframe.cc/MktwSS 
+
+---------------------------------------------------------------------------------------------------------------------------
+		BY SHIVANI
+
+		22nd march
+
+Student profile page       : https://wireframe.cc/vPOGH5
+settings- General settings : https://wireframe.cc/hySlFB
+settings- privacy settings : https://wireframe.cc/qaMBDc
+
+                23rd march
+
+competitive exam 	   : https://wireframe.cc/XpeenQ
+ask question               : https://wireframe.cc/97Ebhk
+answer a question          : https://wireframe.cc/HEiwsP
+test page                  : https://wireframe.cc/8LaqQv
+(GATE exam test homepage)
+test page for gate(MCQs)   : https://wireframe.cc/BuU3pz
+
+                24th march
+
+video page
+(gate exam videos homepage): https://wireframe.cc/Tlb7SJ
+video lecture pages
+(subject&chapterwise)      : https://wireframe.cc/85zRHQ
+
+study material 
+(gate exam studymaterial)  : https://wireframe.cc/C4CDpU
