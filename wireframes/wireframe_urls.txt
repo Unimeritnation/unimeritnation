@@ -1,6 +1,9 @@
 Welcome/main page : https://wireframe.cc/s4nOvn
 Student dashboard : https://wireframe.cc/dmzCrz
 Viewing a video from selected module in chapter : https://wireframe.cc/1jmVyw
+list of tests/exams for a specific subject : https://wireframe.cc/6TdyoN
+Start of test instructions : https://wireframe.cc/VO18ky
+During test : https://wireframe.cc/uyq5fq
 
 Start page of student login- https://wireframe.cc/ytSlap
 start page of teacher login- https://wireframe.cc/ufaaNS
